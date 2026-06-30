@@ -1,12 +1,20 @@
-<!-- Typing animatsiya - ism chiqadi -->
+<!-- Header: Wave banner + Typing animatsiya -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2B90D9&height=200&section=header&text=Teshaboyev%20Salohiddin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%26%20Telegram%20Bot%20Developer&descAlignY=55&descSize=18" alt="header" />
+</p>
+
 <p align="center">
   <a href="https://t.me/txum_bot/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2B90D9&center=true&vCenter=true&width=600&height=60&lines=Teshaboyev+Salohiddin;Tuxum+Market+bot+%40txum_bot;Embedded+%26+Robotics+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2B90D9&background=0D1117FF&center=true&vCenter=true&width=700&height=60&lines=Salom%2C+men+Sukuna+%F0%9F%91%8B;Tuxum+Market+%F0%9F%A5%9A+bot+%40txum_bot;ESP32+%26+Robotika+ishqibozi+%F0%9F%A4%96;Embedded+Systems+Developer+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- O'rtada anime-uslub coding gif -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashbatra2305/yashbatra2305/master/codeing.gif" width="400" alt="coding gif"/>
+</p>
+
 # 💫 About Me:
-Salom, men Sukuna 👋
 
 ## 🚀 Men haqimda
 - 🔭 Hozir [**Tuxum Market**](https://t.me/txum_bot/) — tuxum sotish uchun Telegram bot loyihasi ustida ishlayapman
@@ -51,6 +59,11 @@ Salom, men Sukuna 👋
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dasturlashcurssalohiddin-collab&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Footer: wave banner pastda -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2B90D9&height=120&section=footer" alt="footer" />
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=dasturlashcurssalohiddin-collab&icon=0&color=0)](https://visitcount.itsvg.in)
