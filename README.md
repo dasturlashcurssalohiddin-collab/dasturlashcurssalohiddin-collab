@@ -1,6 +1,6 @@
 <!-- Header: Wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2B90D9&height=200&section=header&text=Teshaboyev%20Salohiddin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%26%20Telegram%20Bot%20Developer&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2B90D9&height=200&section=header&text=Teshaboyev%20Salohiddin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20and%20Telegram%20Bot%20Developer&descAlignY=55&descSize=18" alt="header" />
 </p>
 
 <!-- Gif matn ustida -->
