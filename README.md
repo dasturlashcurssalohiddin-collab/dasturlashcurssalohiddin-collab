@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2B90D9&height=200&section=header&text=Teshaboyev%20Salohiddin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20and%20Telegram%20Bot%20Developer&descAlignY=55&descSize=18" alt="header" />
 </p>
 
-<!-- Gif matn ustida -->
+<!-- Gif -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 </p>
@@ -22,6 +22,7 @@
 - 🤖 Embedded systems (ESP32) va robotika bilan shug'ullanaman — hozir sumo robot loyihasi ustidaman
 - 🎮 Anime va gaming ixlosmandi (Solo Leveling, Jujutsu Kaisen)
 - 🌱 Hozir o'rganayotgan narsam: ...
+- 🌍 Men haqimda ko'proq: [**dasturlashcurssalohiddin-collab.github.io/men**](https://dasturlashcurssalohiddin-collab.github.io/men/)
 
 ### 📚 O'rganganlarim
 - C++
@@ -42,6 +43,8 @@
 ### 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasturlashcurssalohiddin@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/txum_bot/)
+[![Website](https://img.shields.io/badge/Tuxum%20Market%20Website-00C853?style=for-the-badge&logo=google-cloud&logoColor=white)](https://tuxum-market-farg-ona-617360516808.asia-southeast1.run.app/)
+[![Portfolio](https://img.shields.io/badge/Men%20Haqimda-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://dasturlashcurssalohiddin-collab.github.io/men/)
 
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
